@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhoushuihua123
-- 👀 I’m interested in motor control algorithm
+- 👀 I’m interested in motor control algorithm and inverter applicatiion
 - 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on talk about the control of inverter application
 - 📫 my email is zhou.shuihua@163.com
